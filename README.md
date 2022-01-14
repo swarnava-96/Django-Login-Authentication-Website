@@ -6,9 +6,13 @@
 ![Capture](https://user-images.githubusercontent.com/75041273/149496667-6ba29dba-6e36-4192-bd76-746c08325809.PNG)
 
 2. Registration page:
+
 ![Capture1](https://user-images.githubusercontent.com/75041273/149496913-5ff4eae5-b7af-4358-b372-56d2596e3560.PNG)
+
 3. The user have to fill in his/her details:
+
 ![Capture2](https://user-images.githubusercontent.com/75041273/149496985-2d46ab39-4caf-4ef3-8e7b-9b5614e40afc.PNG)
+
 4. 
 ![Capture3](https://user-images.githubusercontent.com/75041273/149497038-bfdfaa0c-26b8-4560-a0d7-e9057ea75b93.PNG)
 ![Capture4](https://user-images.githubusercontent.com/75041273/149497080-9d75f98d-7727-41cd-b85b-fb2aeb088f72.PNG)
