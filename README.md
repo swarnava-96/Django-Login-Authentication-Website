@@ -13,11 +13,23 @@
 
 ![Capture2](https://user-images.githubusercontent.com/75041273/149496985-2d46ab39-4caf-4ef3-8e7b-9b5614e40afc.PNG)
 
-4. 
-![Capture3](https://user-images.githubusercontent.com/75041273/149497038-bfdfaa0c-26b8-4560-a0d7-e9057ea75b93.PNG)
+4. Once the user sign's up, he/she will be redirected to the login page:
+
+![Capture3](https://user-images.githubusercontent.com/75041273/149497038-bfdfaa0c-26b8-4560-a0d7-e9057ea75b93.PNG)hus
+
+5. The user will receive two mails on his/her registered email id for email confirmation and accout setting:
+
 ![Capture4](https://user-images.githubusercontent.com/75041273/149497080-9d75f98d-7727-41cd-b85b-fb2aeb088f72.PNG)
+
+6. Welcome email:
+
 ![Capture5](https://user-images.githubusercontent.com/75041273/149497116-1be9b159-e57f-4d67-83c3-a6bb4bba9048.PNG)
+
+7. The user have to click the link in order to confirm his/her email and start his account:
+
 ![Capture6](https://user-images.githubusercontent.com/75041273/149497141-896c6ad4-05c5-41ef-a8d6-9be40525a915.PNG)
+
+8. 
 ![Capture7](https://user-images.githubusercontent.com/75041273/149497176-2d0f1e39-5f0b-48e8-9fc8-0e582a94ceda.PNG)
 ![Capture8](https://user-images.githubusercontent.com/75041273/149497214-2d96f808-5003-412a-9a11-c9c839e0130c.PNG)
 ![Capture9](https://user-images.githubusercontent.com/75041273/149497246-80798932-7b68-40d5-9e38-0843da32b84f.PNG)
