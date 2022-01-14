@@ -2,7 +2,9 @@
 
 ### Application Snapshots:
 1. Basic home page once the application is run:
+
 ![Capture](https://user-images.githubusercontent.com/75041273/149496667-6ba29dba-6e36-4192-bd76-746c08325809.PNG)
+
 2. Registration page:
 ![Capture1](https://user-images.githubusercontent.com/75041273/149496913-5ff4eae5-b7af-4358-b372-56d2596e3560.PNG)
 3. The user have to fill in his/her details:
